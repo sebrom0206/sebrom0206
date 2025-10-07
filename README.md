@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  Mitt navn er Sebastian Romero. Jeg er fra Oslo og studerer informasjonsvitenskap på Universitet i Bergen. 
+  Mitt navn er Sebastian Romero. Jeg er fra Oslo og studerer Data Science på CBS. 
 </p>
 
 
